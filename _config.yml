@@ -18,8 +18,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   A website for general information and random tidbits about Knoxville software tester and wanna-be developer, Ryan Cox.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rycox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ryanmcbaldyman
+twitter_username: coxrya
 github_username:  rycox
+instagram_username: ryanintennessee
+stackoverflow_username: 1885892
 
 # Build settings
 markdown: kramdown

@@ -21,10 +21,17 @@ permalink: /resume/
 
 
 ## EXPERIENCE AND ACCOMPLISHMENTS
- 
+
+_**Lirio, LLC**_
+
+Knoxville, TN – October 2019 – Present |
+QA Engineering Manager
+
+Lead the charge in testing and automating the quality of Lirio's architecture.  Working to implement common sense strategies and policies to ensure that QA becomes a tool for good rather than a road block to production.  Used groovy, spock, and RestAssured while interacting with a highly containerized and scalable environment.  Worked to manage other engineers' backlogs and processes, acting as mentor and facilitator for good QA practices and automation strategies.  Responsible for hiring and onboarding new QA engineers.
+
 _**Discovery, formerly Scripps Networks Interactive**_
 
-Knoxville, TN – May 2015 – Present |
+Knoxville, TN – May 2015 – October 2019 |
 QA Engineer III/Scrum Master
 
 Work with the File Based Workflow team on asset management projects as quality assurance and scrum master, leveraging open source technologies to automate the testing process and ensure complete code coverage of vital projects.  As part of the File Based Innovators team, championed the switch from SOAP UI application to java-based REST testing, work to increase automation on existing test cases, and act as scrum master for the team, facilitating stand-ups and planning meetings, and working with Dev Lead, Product Manager, and other leadership to continually meet business needs on schedule. 

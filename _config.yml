@@ -1,8 +1,7 @@
 title: Hello, world! I'm Ryan Cox
-description: > # this means to ignore newlines until "baseurl:"
+description: 
   A personal website to house my technical ramblings about software testing, REST API automation, UI automation, and general programming and testing ah-ha's.
 permalink: ':title/'
-baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "rycox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 

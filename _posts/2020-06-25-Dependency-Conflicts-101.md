@@ -51,3 +51,5 @@ How to resolve?  Well, there's a few ways:
         }
 
 So, though it may take quite a bit of research to find out _which_ of your dependencies are conflicting, once you do the solution is easily remedied.
+
+If you have any comments, please feel free to <a href="https://twitter.com/coxrya/status/1276228768152125443">reach out</a>!

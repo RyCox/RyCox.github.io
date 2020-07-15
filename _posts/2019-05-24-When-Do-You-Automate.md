@@ -3,6 +3,7 @@ title: When Do You Automate?
 author: Ryan Cox
 date: 2019-05-24T09:10:00-5:00
 layout: post
+img: software.jpg
 tags: []
 archive: "2019"
 

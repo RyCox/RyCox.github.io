@@ -3,6 +3,7 @@ title: Fresh Old Beginnings
 author: Ryan Cox
 date: 2020-03-30T09:10:00-5:00
 tags: ["soft-skills","status"]
+img: i-rest.jpg
 layout: post
 archive: "2020"
 

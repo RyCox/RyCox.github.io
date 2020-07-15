@@ -2,6 +2,7 @@
 title: Why I love being a QA Engineer
 author: Ryan Cox
 date: 2020-03-13T09:10:00-5:00
+img: how-to-start.jpg
 layout: post
 tags: []
 archive: "2020"

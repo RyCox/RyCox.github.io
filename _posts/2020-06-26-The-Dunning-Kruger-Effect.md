@@ -27,4 +27,4 @@ Learning this, I started feeling better about my abilities to break stuff on pur
 
 My point, the reason for all this rambling, is to say that the next time you're sitting there, staring at some tests or some code that you feel is sub-par, and you're thinking about calling up that old boss to see if they'll take you back so you can sell credit cards again (ugh), take heart in knowing that just by realizing your deficiency, you're actually doing pretty well.
 
-If you have any comments, please feel free to <a href="https://twitter.com/coxrya/status/1283397927914942464">reach out</a>!
+If you have any comments, please feel free to <a href="https://twitter.com/coxrya/status/1283399218070261761">reach out</a>!

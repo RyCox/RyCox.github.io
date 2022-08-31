@@ -9,8 +9,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ryan Cox
 author-img: ryan-cox.jpg # add your photo
-about-author: I am a software tester, living my best life automating service-side testing and dabbling in UI automation when I have to.
-social-twitter: coxrya
+#about-author: I am a software tester, living my best life automating service-side testing and dabbling in UI automation when I have to.
+about-author: Ryan is a Technical Program Manager with a background in test automation, Java, and REST microservices.
+#social-twitter: coxrya
 social-github: RyCox
 social-linkedin: ryan-cox-44925749/
 

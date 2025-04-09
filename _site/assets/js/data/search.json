@@ -1,0 +1,242 @@
+[
+  
+  {
+    "title": "Let's Try This Again",
+    "url": "/posts/Lets-try-this-again/",
+    "categories": "",
+    "tags": "soft-skills, status",
+    "date": "2024-06-24 07:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Well, let’s try this again.It’s been a long time since I’ve written anything substantive.  Heck, it’s been a long time since I’ve written anything at all.  So let’s give this another go.StatusKids ...",
+    "content": "Well, let’s try this again.It’s been a long time since I’ve written anything substantive.  Heck, it’s been a long time since I’ve written anything at all.  So let’s give this another go.StatusKids are growing up, projects are piling up (we bought an Airstream to remodel, and then the truck that we bought to pull the airstream stopped running, so that needs attention, too), and I’m working on an MBA with a focus on Business Analytics.  I’ve got about six months left with that.  More to come there.I was recently promoted to TPM II at work, and am focused now on the project and portfolio side of things.  What that means is that I’m still working to get the same dev team their stories, but now I’m working across teams and focused on the whole project, not just what one particular team is involved in.Portfolio &amp; ProjectThe goal here is that instead of being concerned with a single team and triaging everything that comes through their door, I’ll be an SME on one particular effort and be able to walk the entire project from end to end with each team involved.I’ve got a lot to write about on this change, but that will come in another post.  I think it’ll be really good not only for me and my ability to keep up and stop drinking from the fire hose, but also for the teams to have a single point of contact for the project and reduce churn.Meanwhile, I’m going to post this, welcome you back to my “space”, and re-confirm that I’m working to be better and keep growing."
+  },
+  
+  {
+    "title": "TPM Life, or Why I build",
+    "url": "/posts/TPM-life-or-why-i-build/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-08-31 13:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "About a year ago…I took a leap out of the QA Engineering world I’d grown to love and into something new. I decided that the time had come for me to get out of the individual contributor role and in...",
+    "content": "About a year ago…I took a leap out of the QA Engineering world I’d grown to love and into something new. I decided that the time had come for me to get out of the individual contributor role and into one that would allow me to facilitate teams to produce quality software.  There were various reasons for this, none of which really matter in the grand scheme of things, but the main reason is that I felt like I had grown tired of building, and was confident that clearing the path for my team would be more rewarding.You can probably guess by the title of this post how that went.  Don’t get me wrong: It has been a rewarding process, and I am loving being the one to un-stick the developers when they need clarification on a requirement, or helping the business get new features into their product that they didn’t even know they needed.  It’s just that I didn’t realize how much I was going to miss digging into code, finding out why something works (or, more often, doesn’t), and being able to build something._Now comes the good news_: I can still build stuff.True: It’s not my job anymore, but no one will keep me from building stuff at home, or picking up a support ticket and doing research, or helping the QA testers unravel expected behavior vs. bug.  That’s part of what makes a team successful: For each member to be able and willing to dig in, get their fingers dirty, so to speak, and fix some code.  The satisfaction that comes from uncovering a bug, being able to point to a specific line of code and say “There’s the problem!”, is akin to, at the risk of over selling it, feeling like Indiana Jones finding an ancient civilization.Building a website, a RESTful service, hell, even a HelloWorld app in a new language, is immensely satisfying to a lot of people, and I am just one of them, apparently.  I’m still coming to grips with that, as a man of a certain age.Yes, there will be more posts coming up about soft skills, management tactics, SCRUM methodologies, and the like.  It’s only natural for things to change as the years go on, and it is never a bad thing to learn and grow.  I truly am enjoying the ride, and wouldn’t change it if I could.That said, I will always be a person that loves to build."
+  },
+  
+  {
+    "title": "The Dunning-Kruger Effect and Imposter Syndrome",
+    "url": "/posts/The-Dunning-Kruger-Effect/",
+    "categories": "",
+    "tags": "",
+    "date": "2020-06-26 13:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Last week was a frustrating week in my life of software testing.The old Imposter Syndrome hit hard, and for good reason.  There were several times that I ran into a wall testing new functionality i...",
+    "content": "Last week was a frustrating week in my life of software testing.The old Imposter Syndrome hit hard, and for good reason.  There were several times that I ran into a wall testing new functionality in this new service, and had to go back to the developer several times for clarification and to help unstick myself.  One of those times resulted in us delaying the deployment.It was my fault.  Total PEBKAC moment.So, after swallowing my pride, apologizing to the developer who, by this point, was really tired of hearing from me, I’m sure, and uncrossing all of the proverbial wires, I was thoroughly exhausted and feeling pretty low.Riding that less than awesome wave, I started down the whole “Maybe I should go back to banking” and “I’m not the QA Engineer that deserves this job” rabbit hole.  I normally come back from this via some awesome bug that’s found, or writing some truly beautiful code that boggles the mind in its simplicity (Maybe I’m just reenacting that scene from Silicon Valley in my head).  This time, though, I came across an article.This article was written as a response to current events, and illustrated something called the Dunning-Kruger Effect.  The DKE is a cognitive bias where a person who is not actually good at something cannot see their deficiencies, and thus believe themselves to be above average in that area.  Therefore, people who are actually not well versed in a subject believe themselves to be close to experts on it.  Conversely, an individual who is more knowledgeable can see the areas that they are deficient.  It’s one of those “You don’t know what you don’t know” scenarios: By understanding that you have things to learn, you’re actually doing pretty well in the subject.Learning this, I started feeling better about my abilities to break stuff on purpose and find those areas, those dark corners of code where big, nasty, insidious bugs like to hide out.  By understanding that I don’t know everything, and am not an expert in my field, I must be doing pretty good, then, right?[ This whole process feels like Vizzini in The Princess Bride.  “I am not a great fool, so I can clearly not choose the wine in front of you. But you must have known I was not a great fool, you would have counted on it, so I can clearly not choose the wine in front of me.” ]My point, the reason for all this rambling, is to say that the next time you’re sitting there, staring at some tests or some code that you feel is sub-par, and you’re thinking about calling up that old boss to see if they’ll take you back so you can sell credit cards again (ugh), take heart in knowing that just by realizing your deficiency, you’re actually doing pretty well.If you have any comments, please feel free to reach out!"
+  },
+  
+  {
+    "title": "Dependency Conflicts 101",
+    "url": "/posts/Dependency-Conflicts-101/",
+    "categories": "",
+    "tags": "gradle, java, dependency",
+    "date": "2020-06-25 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Dependency resolution processI ran into a trippy issue with my tests recently.  I had a null pointer exception given, followed by a no such method error within a JaxB function.  I did my best to ma...",
+    "content": "Dependency resolution processI ran into a trippy issue with my tests recently.  I had a null pointer exception given, followed by a no such method error within a JaxB function.  I did my best to make sure I had everything I needed, and the versions that would support the actions I was trying to take, but nothing seemed to resolve and the exceptions were really confusing me (not a difficult task, I admit).So, where to start?  I was pretty sure that I was looking at a dependency conflict.  How do I know what dependencies were conflicting, though?  Well, most of the dependencies I was importing were APIs from other libraries, and I was sure they didn’t actually have any dependencies themeslves, so that narrowed down the list.  Then, I just needed to look in the documentation for the others to see what might be conflicting.What I found was this:  I was importing a specific version in my build.gradle, but another dependency was importing a different version of the same artifact.  This is known as Transitive Dependency.Example:+ --- com.example:dependencyA:2.0.3+ --- com.myDependency:libraryB:1.0.0      | + -- com.example:dependencyA:1.0.3In this example, I’m using version 2.0.3 of dependencyA, but the libraryB dependency has a dependency on version 1.0.3 itself.  This caused the issues I was seeing.So!How to resolve?  Well, there’s a few ways:      You can force gradle to use a specific version of the dependency:     configurations.all {     resolutionStrategy.force 'com.example:dependencyA:2.0.3' }            You can set a substitution rule:     configurations.all {     resolutionStrategy.dependencySubstitution {         substitute module('com.example:dependencyA:1.0.3') with module ('com.example.dependencyA:2.0.3')     } }            Finally, you can exclude the dependency that’s causing the problems as well:     dependencies {     compile('com.example:dependencyA:2.0.3')     compile('com.myDependency:libraryB:1.0.0') {         exclude 'com.example:dependencyA:1.0.3'     } }      So, though it may take quite a bit of research to find out which of your dependencies are conflicting, once you do the solution is easily remedied.If you have any comments, please feel free to reach out!"
+  },
+  
+  {
+    "title": "Fresh Old Beginnings",
+    "url": "/posts/Fresh-Old-Beginnings/",
+    "categories": "",
+    "tags": "soft-skills, status",
+    "date": "2020-03-30 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "New beginnings look like old ones, sometimes.It’s true: I’m back at Discovery testing their managed asset architecture.  My time at Lirio was short, and I will miss my friends there for sure, but I...",
+    "content": "New beginnings look like old ones, sometimes.It’s true: I’m back at Discovery testing their managed asset architecture.  My time at Lirio was short, and I will miss my friends there for sure, but I learned so much during that time that it can’t be counted as a loss at all.One of those things that I learned:  I am not quite ready for a big-picture role like QA Manager.  I never really fell into a groove or felt like I was as productive as I should have been. This entire situation has been a learning opportunity, and I don’t want to just brush it off and say “let’s pretend the last six months didn’t happen”, because they did, and there were definite benefits:  Met new people.  Crazy how you can work in the same industry in a small town (let’s face it, Knoxville is small compared to the tech regions around us (Nashville, Raleigh, Charlotte, Chattanooga)) and still constantly meet people who will show you opportunities for improvement in yourself.  That old adage of surrounding yourself with people who make you better is certainly true.  Learned a new technology stack          Working on a Mac isn’t as bad as I thought it’d be, and I actually am going to continue on one while I get better at scripting and working in the terminal.      Working in the terminal isn’t as difficult and cumbersome as I thought when I was on a Windows machine.  I am embracing the tools available to me, and have stopped fighting things just because they don’t have a shiny user experience.  ASCII art helps, though.      I started learning about Docker and Kafka, and learned an entire new architecture in CQRS (command query responsibility segregation). These new technologies will no doubt be useful to me and my testing in the future.      So now I get to look to the future as well as the past.  I’m blessed to be ble to return to a company that made me feel so comfortable and welcome, and I know that I am lucky to be able to jump right into work without having to spend a week (or much, much longer) getting up to speed on the company’s architecture, tools, and processes.Yours in learning.-R"
+  },
+  
+  {
+    "title": "Why I love being a QA Engineer",
+    "url": "/posts/Why-I-Love-QA/",
+    "categories": "",
+    "tags": "",
+    "date": "2020-03-13 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "This is going to be hard.Not like “I have to figure out how to extract blood from a stone” difficult, but more like “How do I put into words that I love what I do?” difficult.Don’t get me wrong:The...",
+    "content": "This is going to be hard.Not like “I have to figure out how to extract blood from a stone” difficult, but more like “How do I put into words that I love what I do?” difficult.Don’t get me wrong:There are definitely times that I want nothing more than to turn in my notice, sell all my worldly belongings, and go crabbing in Alaska.  The frustrations of this position can be plentiful and painful.  I loathe every failed test, every odd null-pointer exception, every whitespace character accidentally left in a property file.  Still, at the end of the day, what would I really rather do that could provide for my family the way that software QA does?I get to pull code apart, look at lines that people much smarter than me have spent hours putting together in such a way that it should complete some specific task, and when I smell that code smell, when I get on the path of some function that doesn’t really make sense, I get to be a part of making something better.That’s what it’s truly about, right?Taking something that works (ish, sometimes), getting to look at it with a fresh set of eyes, and inevitably finding a way to make it better is not something that many people get to do for a living.  I am blessed to be able to take my passion for pulling things apart to see how they work and apply it toward a vocation that provides for my family and keeps me using that grey matter between the ears.What would I prefer to do?  I have always liked wrenching on cars, but I hate having busted knuckles.  I enjoy working outdoors, but I’m not really a fan of smelling like BO.  Also, sometimes it’s hot out.  Or cold.  Or rainy.I love the challengeBeing a software QA engineer is a great way to keep me thinking and on my toes.  Just about every day, I come up against something that pushes me outside of my comfort zone and makes me better because of it."
+  },
+  
+  {
+    "title": "When Do You Automate?",
+    "url": "/posts/When-Do-You-Automate/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-05-24 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "How do I decide what I’m going to automate?Well, it’s really simple: What do I need to do over and over, but don’t want to?  That’s what it all boils down to.  When I’m looking at something that’s ...",
+    "content": "How do I decide what I’m going to automate?Well, it’s really simple: What do I need to do over and over, but don’t want to?  That’s what it all boils down to.  When I’m looking at something that’s both repetitious and tedious, I’m looking at something that deserves to be automated.That said, how long is it going to develop the test?  Am I going to have to spend three hours on something that won’t be executed every build?  Is this test such an edge case that running it once and then adding it to the backlog of tests doesn’t add any benefit?  Personally, this is my biggest area of opportunity for improvement, as I really like coding things and figuring out how to automate even the most absurd of scenarios.Scenario: If Mercury and Uranus both aligned with Earth, and my API hadn't switched over from the DNS, and my data was invalid, I should get a 400 and a very specific and concise error message regarding the orbit of the database.Of course, that’s hyperbole, but you get the point.  The benefit of running that scenario in every CI build makes zero sense.So, to summarize and use a neat bullet point list, I will automate a scenario if:  It will be done repetitively  It will not take longer than twice the time to manually execute it to develop the scenario in my automation  The test will be used regularly to validate regressionFinally, if the answers to those bullet points aren’t really clear, then you’re left with:  Is the benefit of automating the scenario outweighed by the cost of automating it?Clearly, this isn’t a hard and fast rule, but something that’s going to vary based on your team, your experience, and your sprint estimates.  That said, realizing that not everything has to be automated is sometimes the biggest hurdle."
+  },
+  
+  {
+    "title": "Shooting Yourself in the Foot",
+    "url": "/posts/Shooting-Yourself/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-05-01 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Lit said it best in 1999: I am my own worst enemy.Still, this post isn’t about my alcoholism and crawling through windows, or blacking out drunk in the front yard: I am trying to pull myself in too...",
+    "content": "Lit said it best in 1999: I am my own worst enemy.Still, this post isn’t about my alcoholism and crawling through windows, or blacking out drunk in the front yard: I am trying to pull myself in too many directions.It’s becoming a distraction.  I have at least six books that I’ve started reading, decided to work on some personal coding projects that will probably never see the light of day (because I’m a tester, not a programmer), and accepting volunteering positions and activities that will inevitably become low priority to me.So, here’s what I need to do:  This month, I will finish Essentialism.  That’ll be my one book.  Carry it with me everywhere, and make sure I’m taking time on lunch breaks and after the kids go to bed to read it.  Focus on technology that will move me forward.  I don’t want to be a programmer professionally, so let’s stop spending time researching projects and start looking at things that will help me achieve career goals.  I already understand most of the DevOps philosophy, but let’s get deeper in it.  Automation is great, so let’s put it to work and gain deeper understanding of the “why” of it all.  Let’s commit to two new blog posts on the above topics.Also, school is winding down for my daughter, so that means we’ll be getting in the pool, going to Florida, camping, etc.  In fact, we just bought a used pop up camper for that purpose.  I need to make sure I’m maximizing Dad Time and really ensure that my family gets the best of me."
+  },
+  
+  {
+    "title": "Codestock Retrospective",
+    "url": "/posts/Codestock-Retrospective/",
+    "categories": "",
+    "tags": "codestock, presentation, softskills",
+    "date": "2019-04-24 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Well, that went well.  I gave my first major conference talk last week at @Codestock, and I think it actually went pretty well.  If you want to check out my demo slides or code, you can find it her...",
+    "content": "Well, that went well.  I gave my first major conference talk last week at @Codestock, and I think it actually went pretty well.  If you want to check out my demo slides or code, you can find it here.Other than my talk, there were dozens of other quality topics happening, and several first timers as well.  It was the old problem of having too many good presentations to go see, and not enough time to go see them.  I ended up catching:      The 7 Pillar Developer: Lifestyle Systems for the Exceptional Developer by: Cory House          The gist of this was do less, but do it better.  I got several great book suggestions (which I almost immediately went ahead and ordered.  Now I just have to figure out what to read first), some great quotes (“I am who I think you think I am”), and left feeling pumped about becoming a specialist in… something, rather than a “Jack of all Trades”.            20x Test Efficiency by: Spencer Farley          Great talk about test automation and how to increase productivity and extensibility by structuring your test code and abstracting where possible.            Goodbye REST APIs. Hello GraphQL! by: Cory House          Having had no prior knowledge of GraphQL, this kind of blew my mind.   Now having stepped back for a few days, I recognize that it’s essentially a query language for the front end.  That said, there’s a lot of good functionality here, so learning how it can be tested is definitely beneficial.            Drawing: How to be a Superhuman Communicator by: David Neal          First time seeing a David Neal presentation, and seeing the passion he has for drawing was infectious.  I’m going to go find a tablet to get started on.  Expect my next presentation to be a lot more colorful.            What Do Your Test Cases DO for You? by: Jameson McGhee          Answered the age old question “Why do I need to write this down?!”  Jameson is a very knowledgeable tester and brings a lot of common sense to the field.      And that’s just the first day!I ran into a problem, though: After hearing Mr. House’s talk on GraphQL, I realized I needed to add some technological cherries to my presentation sundae, if you follow.  I went home that night, and ended up adding some scenarios around testing GraphQL APIs, and just generally tidied up my presentation.That’s when you know your presentation went well: When you get other presenters to change what they were going to do the next day.So, I gave my talk first thing on Saturday, feeling fresh and highly caffienated.  I ended up having a great audience and, if you’re reading this and were there, I really appreciate you attending.  I hope it was beneficial to you.  (Some take aways: Make sure you have your presntation tools turned on before you start, and practice using ZoomIt a lot before hand.  Could have avoided some awkwardness there, I think.)I can’t wait for next year’s Codestock."
+  },
+  
+  {
+    "title": "Codestock Preparation",
+    "url": "/posts/Codestock-Preparation/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-03-15 10:10:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "OK, I’ve got approximately a month until Codestock, so that’s a month until I give a presentation onRESTful Testing.God help me.I’ve given the presentation once before, and I feel it went well.  I ...",
+    "content": "OK, I’ve got approximately a month until Codestock, so that’s a month until I give a presentation onRESTful Testing.God help me.I’ve given the presentation once before, and I feel it went well.  I did a shallow dive into what RESTful calls are, how they’re used by machines to talk to each other and pass data or kick off processes.  I think I’m going to go into more depth there, but also:  Find a decent API to use for testing  Create some automated tests to exercise this new service.  Use Postman for manual and RestAssured for code.So!  Let’s get started.  First things first, I need a new service that isn’t going to require me to import a bunch of miscellaneous frameworks and muddy up the waters.  After a brief search, I found mockapi.io!  I was able to create an account here, and then an Employee resource with the fields I required.Once I had that, I was able to go to IntelliJ, create a quick gradle project and add my dependenciesbuild.gradle file:plugins {    id 'java'}version '1.0-SNAPSHOT'sourceCompatibility = 1.8repositories {    mavenCentral()}dependencies {    compile group: 'junit', name: 'junit', version: '4.12'    compile(\"io.rest-assured:rest-assured:3.0.5\")    compile('io.rest-assured:json-schema-validator:3.0.5')    compile(\"org.springframework.boot:spring-boot-starter-test:2.0.1.RELEASE\")    compile(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.0\")    compile(\"javax.xml.bind:jaxb-api:2.2\")    compile(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.0\")}So, from here, I can create my api class in the test module, and start wiring things up.  RestAssured is going to allow me to make the REST calls, and Spring is going to wire it up for me so I don’t have to instantiate it everywhere I want to use it and pass through properties, etc.In the end, my tests looked like this:    @Test    public void testEmployees() {        Response response = mockApi.getEmployees();        Assert.assertEquals(200, response.getStatusCode());        List&lt;Employee&gt; employeeList = new ArrayList&lt;&gt;();        employeeList = response.as(employeeList.getClass());        Assert.assertTrue(employeeList.size() &gt; 0);    }You can find the full test suite on my github page.  Not as bad as I thought it’d be!"
+  },
+  
+  {
+    "title": "Happy New New Year",
+    "url": "/posts/Happy-New-New-Year/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-03-05 09:07:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "*Howdy!*So, this is my first blog post in a long time.  A lot has changed, but at the same time most things are the same.  I’m speaking at Codestock this year, which will be my first presentation o...",
+    "content": "*Howdy!*So, this is my first blog post in a long time.  A lot has changed, but at the same time most things are the same.  I’m speaking at Codestock this year, which will be my first presentation outside of small user group meetings.  The topic is RESTful testing practices, both manual and automated.  Anxiety is real, but I know I’ll be good to go on the day of.Technology wise, we’re not doing much different than before at work.  We’re just doing more of it.  So, I’m going to take any opportunity I have to refocus myself on studying the processes necessary to be efficient and productive at work.As someone who is mostly self taught, or learned on the job how to do software testing, I have a large block of things I could feel more comfortable with.  Test case writing, documentation, statistics and data analysis, etc.  So, wish me luck and let’s get to it!"
+  },
+  
+  {
+    "title": "Refocusing",
+    "url": "/posts/Refocusing/",
+    "categories": "",
+    "tags": "",
+    "date": "2017-10-28 10:07:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "I feel like I’ve been all over the place lately. Work has been a lot of re-verifying old applications and updating existing tests to use the latest architecture and features. Honestly, it’s been ge...",
+    "content": "I feel like I’ve been all over the place lately. Work has been a lot of re-verifying old applications and updating existing tests to use the latest architecture and features. Honestly, it’s been getting monotonous, though certainly necessary. Technical debt, while not always super interesting, is absolutely necessary. That said, I’m getting to do some new stuff soon:Typescript – We’re working on an Angular 2 (which is actually Angular 4.something… go figure) application that we’re going to be using protractor for the UX testing. Since the application’s going to be in typescript, so will the automation! New language [check]SNS testing – We’re using a lot of AWS stuff at work these days, and one of the biggest features being taken advantage of is Simple Notification System messaging. So, for functional testing of the apps that make use of it, we’re using an AWS client to generate a CLI key that gives us access to read and/or post to the topics and get the JSON messages so we can serialize/deserialize them into Java objects. Really cool stuff.Speaking of AWS, I just finished a training on some AWS Architecture and Solutions, so I should be able to put together a blog post on some of what we did. Good times."
+  },
+  
+  {
+    "title": "The Java For-Loop",
+    "url": "/posts/The-Java-For-Loop/",
+    "categories": "",
+    "tags": "",
+    "date": "2016-10-21 10:07:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "I’m beginning to enjoy Java.  Here’s a small thing I learned a while ago (truth be told, I found this post as a draft and figured I’d finish it and post it six months later…  Sue me.)  that could s...",
+    "content": "I’m beginning to enjoy Java.  Here’s a small thing I learned a while ago (truth be told, I found this post as a draft and figured I’d finish it and post it six months later…  Sue me.)  that could save you some heartache or at least a line or two of code:  the .forEach function on a List object is amaze-balls.Example:  I have a List of widgets:List allTheWidgets = new ArrayList();Now, let’s say that I want to do something like make an assertion on each of the widgets in that list.  You’d probably start by doing something like:for (int i = 0; i &lt; allTheWidgets.size; i++ ) {   Assert.assertEquals(allTheWidgets.get(i).getSomeProp(), \"The value I expect\");}Now, that’s all well and good, but it can be done even easier than that.allTheWidgets.forEach(widget -&gt; {    Assert.assertEquals(widget.getSomeProp(), \"The value I expect\");}The widget in the above code is a single object in the list of Widgets, iterated through the list itself.  Therefore, without having to declare a new instance of a Widget or iterate through a list by an index, you can perform the same function or set of functions on every position in the list created.  This is referred to as a passive iterator.Not Earth shattering, but could come in handy."
+  },
+  
+  {
+    "title": "My Mid Year Resolutions",
+    "url": "/posts/My-Mid-Year-Resolutions/",
+    "categories": "",
+    "tags": "",
+    "date": "2015-07-14 10:07:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Man, I’m really bad about this. I’m now two months in at my new job consulting for a media company, and I have to say: I’m still really bad at blogging regularly. That’s got to be my mid-year resol...",
+    "content": "Man, I’m really bad about this. I’m now two months in at my new job consulting for a media company, and I have to say: I’m still really bad at blogging regularly. That’s got to be my mid-year resolution: I have to post at least once a week from here on out. I’m really enjoying my job consulting as a QA Analyst, but I realize that, as a consultant, this job won’t last forever and I need to keep myslef sharp, mentally speaking. So, let’s start today, shall we?The family and I finally moved out of the hotel on the third, and the new place is a mansion. Honestly, I think our 900 sq ft townhouse would feel like a mansion after two months in a hotel, but I digress. We got everything unpacked and started getting into a routine, which brings me to this point: I have to make good behaviors part of my new routine. Healthy eating can’t be an afterthought; Finishing that blog post or working on the website needs to be a priority. I can’t remember who said it, but it sort of applies to this situation: If you don’t plan for the simple things, they won’t happen. I think he was talking about finances and budgeting for savings rather than just putting whatever was left over at the end of the month away, but time is a lot like money: We only get a set amount per month, and it’s really, REALLY easily wasted. So! Here’s the deal: A weekly post to the blog re: something I learned this week. I can’t promise that it’ll be groundbreaking each time, but I can promise it’ll get done.If I want to advance in my career, as so many of my colleagues have become indispensable to their own employers and coworkers, I need to take a page from their handbook and really put myself out there as someone who’s in it for the long haul and isn’t afraid of getting their hands dirty or their brain fried (talking about knowledge, here, not some 420 party guys). This blog started out being a way for me to do that, but I haven’t made it a priority in the past. That’s a good place to start the change."
+  }
+  
+]
+

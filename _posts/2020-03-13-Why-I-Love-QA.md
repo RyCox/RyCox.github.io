@@ -8,6 +8,7 @@ tags: []
 archive: "2020"
 
 ---
+[Image]({{site.baseurl}}/assets/img/how-to-start.jpg)
 
 # This is going to be hard.
 

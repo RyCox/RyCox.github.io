@@ -8,6 +8,7 @@ layout: post
 archive: "2020"
 
 ---
+[Image]({{site.baseurl}}/assets/img/i-rest.jpg)
 
 # New beginnings look like old ones, sometimes.
 It's true: I'm back at Discovery testing their managed asset architecture.  My time at Lirio was short, and I will miss my friends there for sure, but I learned so much during that time that it can't be counted as a loss at all.  

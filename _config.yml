@@ -175,6 +175,10 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: "assets/img"
+    values:
+      img: true
 
 sass:
   style: compressed

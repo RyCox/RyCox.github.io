@@ -3,12 +3,12 @@ title: Let's Try This Again
 author: Ryan Cox
 date: 2024-06-24T06:10:00-5:00
 tags: ["soft-skills","status"]
-img: bageltime.jpg
+img: assets/img/bageltime.jpg
 layout: post
 archive: "2024"
 
 ---
-
+![Image]({{site.baseurl}}/assets/img/bageltime.jpg)
 # Well, let's try this again.
 
 It's been a long time since I've written anything substantive.  Heck, it's been a long time since I've written anything at all.  So let's give this another go.  

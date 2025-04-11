@@ -8,6 +8,7 @@ date: 2022-08-31T12:00:00-5:00
 archive: "2022"
 
 ---
+[Image]({{site.baseurl}}/assets/img/tn-river.jpg)
 
 ## About a year ago...
 I took a leap out of the QA Engineering world I'd grown to love and into something new. I decided that the time had come for me to get out of the individual contributor role and into one that would allow me to facilitate teams to produce quality software.  There were various reasons for this, none of which really matter in the grand scheme of things, but the main reason is that I felt like I had grown tired of building, and was confident that clearing the path for my team would be more rewarding.

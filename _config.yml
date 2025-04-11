@@ -17,7 +17,7 @@ timezone:
 title: PM Ranger
 tagline: 
 description: >- # used by seo meta and the atom feed
-  A personal website to house my technical ramblings about software testing, REST API automation, UI automation, and general programming and testing ah-ha's.
+  A personal website to house my ramblings about software testing, REST API automation, UI automation, and general programming and testing ah-ha's.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

@@ -8,7 +8,7 @@ layout: post
 archive: "2020"
 
 ---
-[Image]({{site.baseurl}}/assets/img/ksp-notes.jpg)
+![Image]({{site.baseurl}}/assets/img/ksp-notes.jpg)
 
 # Dependency resolution process
 I ran into a trippy issue with my tests recently.  I had a `null pointer` exception given, followed by a `no such method` error within a JaxB function.  I did my best to make sure I had everything I needed, and the versions that would support the actions I was trying to take, but nothing seemed to resolve and the exceptions were really confusing me (not a difficult task, I admit).

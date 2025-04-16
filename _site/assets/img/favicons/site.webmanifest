@@ -3,7 +3,7 @@
 {
   "name": "PM Ranger",
   "short_name": "PM Ranger",
-  "description": "A personal website to house my ramblings about the Product Development Lifecycle, Technical PM challenges, and other general musings.",
+  "description": "A personal website to house my ramblings about software testing, REST API automation, UI automation, and general programming and testing ah-ha's.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

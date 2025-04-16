@@ -1,0 +1,147 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>PM Ranger</title>
+  <subtitle>A personal website to house my ramblings about the Product Development Lifecycle, Technical PM challenges, and other general musings.</subtitle>
+  <updated>2025-04-09T09:44:47-04:00</updated>
+  <author>
+    <name>Ryan Cox</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Ryan Cox </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Let's Try This Again</title>
+    <link href="http://localhost:4000/posts/Lets-try-this-again/" rel="alternate" type="text/html" title="Let&amp;apos;s Try This Again" />
+    <published>2024-06-24T07:10:00-04:00</published>
+  
+    <updated>2024-06-24T07:10:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/Lets-try-this-again/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Lets-try-this-again/" />
+    <author>
+      <name>Ryan Cox</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Well, let’s try this again.
+
+It’s been a long time since I’ve written anything substantive.  Heck, it’s been a long time since I’ve written anything at all.  So let’s give this another go.
+
+Status
+Kids are growing up, projects are piling up (we bought an Airstream to remodel, and then the truck that we bought to pull the airstream stopped running, so that needs attention, too), and I’m working ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>TPM Life, or Why I build</title>
+    <link href="http://localhost:4000/posts/TPM-life-or-why-i-build/" rel="alternate" type="text/html" title="TPM Life, or Why I build" />
+    <published>2022-08-31T13:00:00-04:00</published>
+  
+    <updated>2022-08-31T13:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/TPM-life-or-why-i-build/</id>
+    <content type="text/html" src="http://localhost:4000/posts/TPM-life-or-why-i-build/" />
+    <author>
+      <name>Ryan Cox</name>
+    </author>
+
+  
+    
+  
+
+  <summary>About a year ago…
+I took a leap out of the QA Engineering world I’d grown to love and into something new. I decided that the time had come for me to get out of the individual contributor role and into one that would allow me to facilitate teams to produce quality software.  There were various reasons for this, none of which really matter in the grand scheme of things, but the main reason is tha...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Dunning-Kruger Effect and Imposter Syndrome</title>
+    <link href="http://localhost:4000/posts/The-Dunning-Kruger-Effect/" rel="alternate" type="text/html" title="The Dunning-Kruger Effect and Imposter Syndrome" />
+    <published>2020-06-26T13:00:00-04:00</published>
+  
+    <updated>2020-06-26T13:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/The-Dunning-Kruger-Effect/</id>
+    <content type="text/html" src="http://localhost:4000/posts/The-Dunning-Kruger-Effect/" />
+    <author>
+      <name>Ryan Cox</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Last week was a frustrating week in my life of software testing.
+
+The old Imposter Syndrome hit hard, and for good reason.  There were several times that I ran into a wall testing new functionality in this new service, and had to go back to the developer several times for clarification and to help unstick myself.  One of those times resulted in us delaying the deployment.
+
+It was my fault.  Tot...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Dependency Conflicts 101</title>
+    <link href="http://localhost:4000/posts/Dependency-Conflicts-101/" rel="alternate" type="text/html" title="Dependency Conflicts 101" />
+    <published>2020-06-25T10:10:00-04:00</published>
+  
+    <updated>2020-06-25T10:10:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/Dependency-Conflicts-101/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Dependency-Conflicts-101/" />
+    <author>
+      <name>Ryan Cox</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Dependency resolution process
+I ran into a trippy issue with my tests recently.  I had a null pointer exception given, followed by a no such method error within a JaxB function.  I did my best to make sure I had everything I needed, and the versions that would support the actions I was trying to take, but nothing seemed to resolve and the exceptions were really confusing me (not a difficult tas...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Fresh Old Beginnings</title>
+    <link href="http://localhost:4000/posts/Fresh-Old-Beginnings/" rel="alternate" type="text/html" title="Fresh Old Beginnings" />
+    <published>2020-03-30T10:10:00-04:00</published>
+  
+    <updated>2020-03-30T10:10:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/Fresh-Old-Beginnings/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Fresh-Old-Beginnings/" />
+    <author>
+      <name>Ryan Cox</name>
+    </author>
+
+  
+    
+  
+
+  <summary>New beginnings look like old ones, sometimes.
+It’s true: I’m back at Discovery testing their managed asset architecture.  My time at Lirio was short, and I will miss my friends there for sure, but I learned so much during that time that it can’t be counted as a loss at all.
+
+One of those things that I learned:  I am not quite ready for a big-picture role like QA Manager.  I never really fell in...</summary>
+
+  </entry>
+
+</feed>
+
+
